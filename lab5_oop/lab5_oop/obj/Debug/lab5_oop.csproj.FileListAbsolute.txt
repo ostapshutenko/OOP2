@@ -1,0 +1,6 @@
+C:\Users\Ostap_Shut\source\repos\lab5_oop\lab5_oop\obj\Debug\lab5_oop.csprojAssemblyReference.cache
+C:\Users\Ostap_Shut\source\repos\lab5_oop\lab5_oop\bin\Debug\lab5_oop.exe.config
+C:\Users\Ostap_Shut\source\repos\lab5_oop\lab5_oop\bin\Debug\lab5_oop.exe
+C:\Users\Ostap_Shut\source\repos\lab5_oop\lab5_oop\bin\Debug\lab5_oop.pdb
+C:\Users\Ostap_Shut\source\repos\lab5_oop\lab5_oop\obj\Debug\lab5_oop.exe
+C:\Users\Ostap_Shut\source\repos\lab5_oop\lab5_oop\obj\Debug\lab5_oop.pdb
